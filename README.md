@@ -355,4 +355,5 @@ This is a basic educational project created for learning purposes.
 
 For issues or questions, check the Laravel documentation at https://laravel.com/docs
 #   h o s p i t a l - m a n a g e m e n t - s y s t e m  
+ #   h o s p i t a l - m a n a g e m e n t - s y s t e m  
  
