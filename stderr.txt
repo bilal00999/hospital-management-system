@@ -1,0 +1,3 @@
+Could not open input file: C:\laragon\www\hospital
+Could not open input file: management
+Could not open input file: system\vendor\laravel\framework\src\Illuminate\Cache\RateLimiter.php
